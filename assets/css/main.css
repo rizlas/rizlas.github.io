@@ -120,6 +120,12 @@ input, select, textarea {
 			color: #ffffff !important;
 			text-decoration: none;
 		}
+		
+	a.repo-links:hover {
+		border-bottom-color: transparent;
+		color: #b8bbbf !important;
+		text-decoration: none;
+	}
 
 	strong, b {
 		color: #787878;
